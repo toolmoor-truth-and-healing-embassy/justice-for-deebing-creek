@@ -1,14 +1,10 @@
 ---
 layout: base
 ---
-<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
-  <section class="gallery">
-    {% for image in site.data.gallery %}
-        <div class="gallery__item">
-            <input type="radio" id="img-{{ forloop.index }}" checked name="gallery" class="gallery__selector"/>
-            <img class="gallery__img" src="{{ site.baseurl }}/assets/img/gallery/{{ image.file }}" alt="{{ image.text}}"/>
-            <label for="img-{{ forloop.index }}" class="gallery__thumb"><img src="{{ site.baseurl }}/assets/img/gallery/thumbs/{{ image.thumb }}" alt="{{ image.text}}"/></label>
-        </div>
-    {% endfor %}
-  </section>
-</div>
+<div class="intro-header"></div>
+
+<div class="gallery_image_container">
+  {% for image in site.data.gallery %}  
+    <img class="gallery__img" src="{{ site.baseurl }}/assets/img/gallery/{{ image.file }}" alt="{{ image.text}}"/>
+  {% endfor %}
+</div>  

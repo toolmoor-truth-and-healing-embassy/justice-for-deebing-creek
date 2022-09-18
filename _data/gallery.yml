@@ -1,3 +1,37 @@
-- file: garden_1.jpg
-  thumb: garden_1_thumb.png
-  text: Gardening
+---
+- :file: Truth and Healing Circle.jpg
+  :thumb: Truth and Healing Circle.gif
+  :text: Truth and Healing Circle
+- :file: beautiful green frog.jpg
+  :thumb: beautiful green frog.gif
+  :text: beautiful green frog
+- :file: beautiful kangaroos.jpg
+  :thumb: beautiful kangaroos.gif
+  :text: beautiful kangaroos
+- :file: fantastic people.jpeg
+  :thumb: fantastic people.gif
+  :text: fantastic people
+- :file: garden working bee.jpg
+  :thumb: garden working bee.gif
+  :text: garden working bee
+- :file: garden.jpg
+  :thumb: garden.gif
+  :text: garden
+- :file: happy chicken.jpg
+  :thumb: happy chicken.gif
+  :text: happy chicken
+- :file: kulcha.jpeg
+  :thumb: kulcha.gif
+  :text: kulcha
+- :file: precious trees.jpeg
+  :thumb: precious trees.gif
+  :text: precious trees
+- :file: save deebing creek.jpg
+  :thumb: save deebing creek.gif
+  :text: save deebing creek
+- :file: sovreignty.jpg
+  :thumb: sovreignty.gif
+  :text: sovreignty
+- :file: wild flowers.jpeg
+  :thumb: wild flowers.gif
+  :text: wild flowers

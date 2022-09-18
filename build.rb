@@ -13,9 +13,9 @@ File.open("./_data/gallery.yml", "w") do |f|
     f.write(
         files.map do |fname| 
             {
-                file: fname,
-                thumb: fname.split(".")[0] + ".gif", 
-                text: fname.split(".")[0],
+                "file" => fname,
+                "thumb" => fname.split(".")[0] + ".gif", 
+                "text" => fname.split(".")[0],
             }
         end.to_yaml
     )

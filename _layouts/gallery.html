@@ -7,8 +7,8 @@ layout: base
         <img src="{{ site.baseurl }}/assets/img/gallery/{{ image.file }}" alt="image" />
         <div class="gallery__item">
             <input type="radio" id="img-{{ forloop.index }}" checked name="gallery" class="gallery__selector"/>
-            <img class="gallery__img" src="{{ site.baseurl }}/assets/img/gallery/{{ image.file }}" alt=""/>
-            <label for="img-{{ forloop.index }}" class="gallery__thumb"><img src="{{ site.baseurl }}/assets/img/gallery/{{ image.thumb }}" alt=""/></label>
+            <img class="gallery__img" src="{{ site.baseurl }}/assets/img/gallery/{{ image.file }}" alt="{{ image.text}}"/>
+            <label for="img-{{ forloop.index }}" class="gallery__thumb"><img src="{{ site.baseurl }}/assets/img/gallery/thumb/{{ image.thumb }}" alt="{{ image.text}}"/></label>
         </div>
     {% endfor %}
   </section>

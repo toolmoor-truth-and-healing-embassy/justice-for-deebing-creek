@@ -9,6 +9,6 @@ We would love for you to come along to one of our our upcoming events.
 
 There is no cost to attend. Donation welcome.
 
-<iframe src='https://widgets.sociablekit.com/facebook-page-events/iframe/89296' frameborder='0' width='100%' height='1000'></iframe>
-
 We look forward to seeing you all around the fire.
+
+<iframe src='https://widgets.sociablekit.com/facebook-page-events/iframe/89296' frameborder='0' width='100%' height='1000'></iframe>

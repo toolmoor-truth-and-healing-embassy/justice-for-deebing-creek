@@ -5,17 +5,17 @@ title: Meet the Protectors
 
 ![image Yowie](/assets/img/protectors/yowie.jpeg)
 
-Yowallah, im Yowie Bunda, chief protector of the pit of bones and cemetery. Im at Jarjumbah to represent the bones as a descendant of those ancestors who went thru the former Deebing Creek mission.
+Yowallah, I'm Yowie Bunda, chief protector of the pit of bones and cemetery. Im at Jarjumbah to represent the bones as a descendant of those ancestors who went thru the former Deebing Creek mission.
 
-Im here to achieve repatriation and send the ancestors bones home. Im here to change legislation. IM HERE FOR TRUTH & HEALING.
+Im here to achieve repatriation and send the ancestors' bones home. Im here to change legislation. IM HERE FOR TRUTH & HEALING.
 
 ![image Cassie](/assets/img/protectors/cassie.jpeg)
 
-Cassie is originally from Kaurna country- Adelaide, South Australia and on her journey to seeking her own connections; 
-Cassie came to us after being invited by a fellow protector to one of our movie nights, the releasing of  Zach's ceremony, 
+Cassie is originally from Kaurna country - Adelaide, South Australia and on her journey seeking her own connections; 
+Cassie came to us after being invited by a fellow protector to one of our movie nights, the releasing of Zach's ceremony, 
 Being a sensitive person to energy; the spirit and history of Deebing once felt into and shared to her, etched in her heart bringing her to stand with us in our fight for truth to be told, healing, repatriation, justice and the preservation of yuggeras deebing creek mission site and massacre pit within. 
 
-Cassie assists us where she can with outside research, Yambas & shed builds previously with fellow protectors, onsite protection work and help, cook ups, on and offline love & support, massacre pit protection alongside and under direction of yowie; and forest friends. Cassie also holds sound healing journeys as requested within aunty Sharon's truth & healing days.
+Cassie assists us where she can with outside research, Yambas & shed builds previously with fellow protectors, onsite protection work and help, cook ups, on and offline love & support, massacre pit protection alongside and under direction of Yowie; and forest friends. Cassie also holds sound healing journeys as requested within aunty Sharon's truth & healing days.
 
 ![image Keri](/assets/img/protectors/keri.jpeg)
 
@@ -23,7 +23,7 @@ Hi! I'm Keri from so-called Canada. That's where I first became involved in deco
 
 ![image Cam](/assets/img/protectors/cam.jpeg)
 
-Cam - non-indigenous person from Narrm, (Melbourne) Wurundjeri country and comes out regularly to help whenever they have the chance to.  Has helped out with gardening and whatever smaller tasks need doing.  Motivated to help defend the land for various reasons; recognition of past wrongs done by colonisation to learn and heal from it, fighting for land rights for First Nations people, showing the potential of and the things we can do with land such as building things to live in and growing our own food, preserving indigenous cultural knowledge, and drawing attention to the harmful aspects of colonisation that continues today.
+Cam - non-indigenous person from Narrm, (Melbourne) Wurundjeri country and comes out regularly to help whenever they have the chance to.  Has helped out with gardening and whatever smaller tasks need doing. Motivated to help defend the land for various reasons; recognition of past wrongs done by colonisation to learn and heal from it, fighting for land rights for First Nations people, showing the potential of and the things we can do with land such as building things to live in and growing our own food, preserving indigenous cultural knowledge, and drawing attention to the harmful aspects of colonisation that continues today.
 
 ![image DeeKey](/assets/img/protectors/deekey.jpeg)
 

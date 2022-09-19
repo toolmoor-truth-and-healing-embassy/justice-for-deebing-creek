@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: The Site
 ---
 
 The Toolmoor Truth and Healing Embassy was established on the 7th of March 2021 following two years of land reclaimation, occupation and resistance to prevent a housing development on historically and culturally significant First Nations Lands.

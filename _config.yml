@@ -14,7 +14,9 @@ author: Toolmoor Truth and Healing Embassy
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
+  About: 
+    - The site: "about"
+    - The Protectors: "meet"
   History: "history"
   Get Involved: "get-involved"
   Sovreignty: 
